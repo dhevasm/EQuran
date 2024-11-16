@@ -200,7 +200,7 @@ export default function Detail() {
         {
           surah.englishName != "Al-Faatiha" && <div className="rounded-lg p-8 shadow-lg transition duration-300 hover:shadow-xl bg-gradient-to-br from-white to-gray-50">
           <div className="text-center">
-            <p className="mb-4 text-3xl font-arabic leading-relaxed tracking-wide text-gray-800">
+            <p className="mb-4 text-xl md:text-3xl font-arabic leading-relaxed tracking-wide text-gray-800">
               بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
             </p>
             <p className="text-sm font-medium text-gray-600">

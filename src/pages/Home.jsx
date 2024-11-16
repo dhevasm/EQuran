@@ -5,7 +5,7 @@ import Quotes from '../json/Quotes.json';
 
 export default function Home() {
     const Navigate = useNavigate();
-    const Clock = useRef(null);
+    // const Clock = useRef(null);
     const QuotesRef = useRef(null);
     const [nextPrayer, setNextPrayer] = useState({ name: '', countdown: '' });
     const [prayerTimes, setPrayerTimes] = useState(null);
@@ -38,16 +38,16 @@ export default function Home() {
         }
     }, []);
 
-    useEffect(() => {
-        const clockInterval = setInterval(() => {
-            const date = new Date();
-            if (Clock.current !== null) {
-                Clock.current.innerText = date.toLocaleTimeString();
-            }
-        }, 1000);
+    // useEffect(() => {
+    //     const clockInterval = setInterval(() => {
+    //         const date = new Date();
+    //         if (Clock.current !== null) {
+    //             Clock.current.innerText = date.toLocaleTimeString();
+    //         }
+    //     }, 1000);
 
-        return () => clearInterval(clockInterval);
-    }, []);
+    //     return () => clearInterval(clockInterval);
+    // }, []);
 
     // Update prayer countdown
     useEffect(() => {
@@ -116,10 +116,10 @@ export default function Home() {
                     <h1 className='text-5xl font-semibold text-[#FFB30F] text-center'>
                         <span className='font-bold text-white'>E</span>Quran
                     </h1>
-                    <h2 ref={Clock} className='text-xl text-center'>00:00:00</h2>
+                    {/* <h2 ref={Clock} className='text-xl text-center'>00:00:00</h2> */}
                     <div className='flex flex-col items-center gap-1'>
-                        <p className='text-lg font-medium'>Menuju waktu {nextPrayer.name}</p>
                         <p className='text-sm font-light'>{nextPrayer.countdown}</p>
+                        <p className='text-lg font-medium'>Menuju waktu {nextPrayer.name}</p>
                     </div>
                     <button 
                         onClick={startQuran} 

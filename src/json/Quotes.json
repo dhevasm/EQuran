@@ -1,0 +1,162 @@
+{
+    "quotes": [
+      {
+        "id": 1,
+        "text": "Jangan bersedih, sesungguhnya Allah bersama kita.",
+        "source": "QS. At-Taubah: 40",
+        "category": "motivasi",
+        "tags": ["kesabaran", "optimisme"]
+      },
+      {
+        "id": 2,
+        "text": "Maka sesungguhnya bersama kesulitan ada kemudahan.",
+        "source": "QS. Al-Insyirah: 5",
+        "category": "motivasi",
+        "tags": ["kesabaran", "optimisme"]
+      },
+      {
+        "id": 3,
+        "text": "Barangsiapa yang menapaki suatu jalan dalam rangka mencari ilmu, maka Allah akan memudahkan baginya jalan ke surga.",
+        "source": "HR. Muslim",
+        "category": "pendidikan",
+        "tags": ["ilmu", "pendidikan"]
+      },
+      {
+        "id": 4,
+        "text": "Senyummu di hadapan saudaramu adalah sedekah.",
+        "source": "HR. Tirmidzi",
+        "category": "akhlak",
+        "tags": ["sedekah", "kebaikan"]
+      },
+      {
+        "id": 5,
+        "text": "Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lainnya.",
+        "source": "HR. Ahmad",
+        "category": "akhlak",
+        "tags": ["kebaikan", "sosial"]
+      },
+      {
+        "id": 6,
+        "text": "Waktu itu bagaikan pedang, jika kamu tidak memanfaatkannya dengan baik, maka ia akan memanfaatkanmu.",
+        "source": "HR. Muslim",
+        "category": "hikmah",
+        "tags": ["waktu", "disiplin"]
+      },
+      {
+        "id": 7,
+        "text": "Sebaik-baik amalan adalah shalat tepat pada waktunya.",
+        "source": "HR. Bukhari",
+        "category": "ibadah",
+        "tags": ["shalat", "disiplin"]
+      },
+      {
+        "id": 8,
+        "text": "Barangsiapa yang beriman kepada Allah dan hari akhir, maka hendaklah dia berkata baik atau diam.",
+        "source": "HR. Bukhari",
+        "category": "akhlak",
+        "tags": ["perkataan", "adab"]
+      },
+      {
+        "id": 9,
+        "text": "Kebersihan itu sebagian dari iman.",
+        "source": "HR. Muslim",
+        "category": "kebersihan",
+        "tags": ["kebersihan", "iman"]
+      },
+      {
+        "id": 10,
+        "text": "Orang kuat bukanlah yang menang dalam pergulatan, tetapi orang kuat adalah yang mampu mengendalikan dirinya ketika marah.",
+        "source": "HR. Bukhari & Muslim",
+        "category": "akhlak",
+        "tags": ["pengendalian diri", "kesabaran"]
+      },
+      {
+        "id": 11,
+        "text": "Surga itu di bawah telapak kaki ibu.",
+        "source": "HR. Ahmad",
+        "category": "keluarga",
+        "tags": ["ibu", "berbakti"]
+      },
+      {
+        "id": 12,
+        "text": "Sebaik-baik kalian adalah yang mempelajari Al-Quran dan mengajarkannya.",
+        "source": "HR. Bukhari",
+        "category": "pendidikan",
+        "tags": ["Al-Quran", "ilmu"]
+      },
+      {
+        "id": 13,
+        "text": "Allah tidak melihat pada rupa dan harta kalian, tetapi Dia melihat pada hati dan amal kalian.",
+        "source": "HR. Muslim",
+        "category": "hikmah",
+        "tags": ["keikhlasan", "amal"]
+      },
+      {
+        "id": 14,
+        "text": "Tiga doa yang tidak tertolak: doa orang yang berpuasa, doa orang yang dizalimi, dan doa orang tua untuk anaknya.",
+        "source": "HR. Bukhari",
+        "category": "doa",
+        "tags": ["puasa", "doa"]
+      },
+      {
+        "id": 15,
+        "text": "Sedekah tidak akan mengurangi harta.",
+        "source": "HR. Muslim",
+        "category": "sedekah",
+        "tags": ["sedekah", "rezeki"]
+      },
+      {
+        "id": 16,
+        "text": "Orang yang pandai bukanlah yang pandai mengalahkan orang lain, tetapi orang yang pandai adalah yang mampu mengalahkan nafsunya sendiri.",
+        "source": "HR. Bukhari",
+        "category": "hikmah",
+        "tags": ["pengendalian diri", "nafsu"]
+      },
+      {
+        "id": 17,
+        "text": "Tidak ada yang lebih berat dalam timbangan amal selain akhlak yang mulia.",
+        "source": "HR. Abu Dawud",
+        "category": "akhlak",
+        "tags": ["akhlak", "amal"]
+      },
+      {
+        "id": 18,
+        "text": "Barangsiapa yang menghendaki kebaikan di dunia maka dengan ilmu. Barangsiapa yang menghendaki kebaikan di akhirat maka dengan ilmu. Barangsiapa yang menghendaki keduanya maka dengan ilmu.",
+        "source": "HR. Bukhari",
+        "category": "pendidikan",
+        "tags": ["ilmu", "kesuksesan"]
+      },
+      {
+        "id": 19,
+        "text": "Sebaik-baik manusia adalah yang panjang umurnya dan baik amalnya.",
+        "source": "HR. Tirmidzi",
+        "category": "hikmah",
+        "tags": ["umur", "amal"]
+      },
+      {
+        "id": 20,
+        "text": "Janganlah kalian saling membenci, saling mendengki, saling membelakangi, dan jadilah kalian hamba-hamba Allah yang bersaudara.",
+        "source": "HR. Muslim",
+        "category": "persaudaraan",
+        "tags": ["persaudaraan", "akhlak"]
+      }
+    ],
+    "categories": [
+      "motivasi",
+      "pendidikan",
+      "akhlak",
+      "hikmah",
+      "ibadah",
+      "kebersihan",
+      "keluarga",
+      "sedekah",
+      "doa",
+      "persaudaraan"
+    ],
+    "metadata": {
+      "total_quotes": 20,
+      "last_updated": "2024-11-16",
+      "version": "1.0",
+      "language": "id-ID"
+    }
+  }

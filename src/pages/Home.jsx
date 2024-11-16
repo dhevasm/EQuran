@@ -117,7 +117,7 @@ export default function Home() {
                         <span className='font-bold text-white'>E</span>Quran
                     </h1>
                     {/* <h2 ref={Clock} className='text-xl text-center'>00:00:00</h2> */}
-                    <div className='flex flex-col items-center gap-1'>
+                    <div className='flex flex-col items-center gap-1 mt-1'>
                         <p className='text-sm font-light'>{nextPrayer.countdown}</p>
                         <p className='text-lg font-medium'>Menuju waktu {nextPrayer.name}</p>
                     </div>
